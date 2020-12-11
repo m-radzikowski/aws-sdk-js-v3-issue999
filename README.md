@@ -37,3 +37,9 @@ Log from CloudWatch:
     ]
 }
 ``` 
+
+## Cleanup
+
+```bash
+npm run remove
+```
